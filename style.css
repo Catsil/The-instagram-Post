@@ -1,0 +1,57 @@
+head {
+    font-family: 'Work Sans', sans-serif;
+}
+body {
+    background-color: rgba(128, 128, 128, 0.123);
+    margin: 0;
+    font-family:  'Open Sans', sans-serif;
+}
+header {
+    text-align: center;
+    background: white;
+    padding: 1px;
+    margin: 0;
+}
+.gif {
+    width: 600px;
+    margin: auto;
+    padding: 40px;
+}
+.post1 {
+    background-color: white;
+
+}
+.subname  {
+    font-weight: bold;
+}
+.caption p {
+    padding: 5px;
+    margin: 1rem;
+}
+
+.superior {
+    display: flex;
+    justify-content: space-between;
+	margin: 0;
+  padding-right: 10px;
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.superior p {
+    color:grey;
+}
+.post1 img {
+    width: 100%;
+}
+i {
+    font-size: 2rem;
+    margin: 1rem;
+}
+.name {
+    display: flex;
+}
+.icons {
+    display: flex;
+    justify-content: space-between;
+}
